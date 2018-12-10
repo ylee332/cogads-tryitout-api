@@ -1,0 +1,9 @@
+.gradle/
+.idea/
+.DS_Store
+target
+run.sh
+*.iml
+*.json
+*.csv
+*.yml
