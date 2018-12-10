@@ -1,0 +1,22 @@
+{
+  "couchdb": {
+    "username": "replace",
+    "password": "replace",
+    "host": "replace",
+    "port": replace,
+    "url": "replace"
+  },
+  "appId":{
+    "clientId": "replace",
+    "secret": "replace",
+    "tenantId": "replace"
+  },
+  "ENCRYPTION_KEY": "replace",
+  "INIT_VECTOR" : "replace",
+  "apikey":"replace",
+  "resourceGroup":  "replace",
+  "watsonAssistantVersion": "replace",
+  "ingesterAuthToken" : "replace",
+  "ingesterUrl": "replace",
+  "watsonAssistantUrl": "replace"
+}
